@@ -1,1 +1,1 @@
-Hi This demo example is intended to stay at only WORKING DIRECTORY LEVEL. Please do not move it to STAGING AREA
+Hi This demo example is intended to stay at only WORKING DIRECTORY LEVEL. Please do not move it to STAGING AREA -jk, this dev2 is intended to create merge conflict with dev1 merged changes to master branch
